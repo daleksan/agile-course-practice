@@ -2,6 +2,10 @@
 include "code/bevzuk-anton"
 project(":code/bevzuk-anton").name = "bevzuk-anton-Model"
 
+// Aleksandrov, Dmitry
+include "code/aleksandrov-dmitry"
+project(":code/aleksandrov-dmitry").name = "aleksandrov-dmitry-tree"
+
 // Kornyakov Kirill, lab1
 include "code/kornyakov-kirill-lab1"
 project(":code/kornyakov-kirill-lab1").name = "kornyakov-kirill-lab1-Model"
